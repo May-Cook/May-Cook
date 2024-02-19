@@ -1,5 +1,5 @@
 <div id=header align=center >
-            <h1 text-color=red>May Cook</h1>
+            <h1>May Cook</h1>
 
 
 #### Hi I'm May, a Computer Science student at [Royal Holloway University](https://www.royalholloway.ac.uk/).
