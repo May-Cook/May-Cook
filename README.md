@@ -2,7 +2,7 @@
             <h1>May Cook</h1>
 
 
-#### Hi I'm May, a Computer Science student at [Royal Holloway University](https://www.royalholloway.ac.uk/).
+#### 👋 Hi I'm May, a Computer Science student at [Royal Holloway University](https://www.royalholloway.ac.uk/).
 </div>
 
 ### My Programming Background
