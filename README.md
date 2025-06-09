@@ -1,5 +1,5 @@
 <div id=header align=center >
-            <h1>May Cook</h1>
+            <img align="center" width="30%" src="https://github.com/May-Cook/May-Cook/blob/main/github-header-image.png?raw=true" />
 
 
 #### 👋 Hi I'm May, a Computer Science student at [Royal Holloway University](https://www.royalholloway.ac.uk/).
