@@ -19,7 +19,8 @@ I have also have small amounts of experience using a variety of other languages 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
+![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge)
 
 <div id=stats-card align=center> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
